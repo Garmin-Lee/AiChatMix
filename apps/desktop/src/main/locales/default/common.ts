@@ -20,7 +20,7 @@ const common = {
   },
   app: {
     description: '你的 AI 助手协作平台',
-    name: 'LobeHub',
+    name: 'AiChatMiX',
   },
   status: {
     error: '错误',

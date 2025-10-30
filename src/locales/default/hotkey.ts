@@ -34,7 +34,7 @@ const hotkey: HotkeyI18nTranslations & {
     title: '编辑消息',
   },
   navigateToChat: {
-    desc: '切换至会话标签并进入随便聊聊',
+    desc: '切换至会话标签并进入标准模型',
     title: '切换至默认会话',
   },
   openChatSettings: {

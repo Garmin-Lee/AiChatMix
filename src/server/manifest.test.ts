@@ -9,7 +9,7 @@ import { Manifest, manifestModule } from './manifest';
 
 // Mock external dependencies
 vi.mock('@/const/branding', () => ({
-  BRANDING_LOGO_URL: 'https://example.com/logo.png',
+  BRANDING_LOGO_URL: 'https://s3-api.aichatmix.com/assets/img/logo.jpg',
 }));
 
 vi.mock('@/server/utils/url', () => ({

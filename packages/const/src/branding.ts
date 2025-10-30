@@ -2,12 +2,12 @@
 // if you want to use it in the commercial usage
 // please contact us for more information: hello@lobehub.com
 
-export const LOBE_CHAT_CLOUD = 'LobeHub Cloud';
+export const LOBE_CHAT_CLOUD = 'AiChatMiX Cloud';
 
-export const BRANDING_NAME = 'LobeHub';
-export const BRANDING_LOGO_URL = '';
+export const BRANDING_NAME = 'AiChatMiX';
+export const BRANDING_LOGO_URL = 'https://s3-api.aichatmix.com/assets/img/logo.jpg';
 
-export const ORG_NAME = 'LobeHub';
+export const ORG_NAME = 'AiChatMiX';
 
 export const BRANDING_URL = {
   help: undefined,
