@@ -7,7 +7,7 @@ const isDev = process.env.NODE_ENV === 'development';
 
 export const UTM_SOURCE = 'chat_preview';
 
-export const OFFICIAL_URL = 'https://lobechat.com';
+export const OFFICIAL_URL = 'https://aichatmix.com';
 export const OFFICIAL_PREVIEW_URL = 'https://chat-preview.lobehub.com';
 export const OFFICIAL_SITE = 'https://lobehub.com';
 

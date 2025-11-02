@@ -5,7 +5,7 @@
 export const LOBE_CHAT_CLOUD = 'AiChatMiX Cloud';
 
 export const BRANDING_NAME = 'AiChatMiX';
-export const BRANDING_LOGO_URL = 'https://s3-api.aichatmix.com/assets/img/logo.jpg';
+export const BRANDING_LOGO_URL = 'https://s3-api.aichatmix.com/assets/img/favicon.png';
 
 export const ORG_NAME = 'AiChatMiX';
 
