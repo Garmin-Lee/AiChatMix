@@ -229,6 +229,8 @@ export default {
   'noMembersYet': "This group doesn't have any members yet. Click the + button to invite agents.",
   'noSelectedAgents': 'No members selected yet',
   'openInNewWindow': 'Open in New Window',
+  'operation.execAgentRuntime': 'Preparing response',
+  'operation.sendMessage': 'Sending message',
   'owner': 'Group owner',
   'pageCopilot.title': 'Page Agent',
   'pageCopilot.welcome':
@@ -317,7 +319,7 @@ export default {
   'shareModal.popover.moreOptions': 'More share options',
   'shareModal.popover.privacyWarning.confirm': 'I understand, continue',
   'shareModal.popover.privacyWarning.content':
-    'Please ensure the conversation does not contain any private or sensitive information before sharing. LobeHub is not responsible for any security issues that may arise from sharing.',
+    "Please make sure your conversation doesn't contain any personal or sensitive information. You are responsible for any content you choose to share and its consequences.",
   'shareModal.popover.privacyWarning.title': 'Privacy Notice',
   'shareModal.popover.title': 'Share Topic',
   'shareModal.popover.visibility': 'Visibility',
